@@ -1,0 +1,41 @@
+/* *{
+    background-color: lightcoral;
+} */
+
+/* this will affect ALL of your HTML code */
+
+h1 {
+    color: indigo;
+    font-size: 50px;
+    text-align: center;
+   
+}
+
+.navbar {
+    background-color: tomato;
+}
+
+/* this is a comment */
+
+p {
+    color: rgb(0, 0, 255);
+}
+
+.green {
+    color: lightgreen;
+}
+/* this is how to target a class */
+
+.large {
+    font-size:30px;
+}
+
+/* #chapter2 {
+
+} */
+
+#second {
+    font-size: 20px;
+}
+
+/* this is how to target an ID */
